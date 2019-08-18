@@ -1,0 +1,8 @@
+spring:
+ data:
+   mongodb:
+     database: keepnoteremdb
+     port: 27017
+     host: localhost
+server:
+ port: 8081
